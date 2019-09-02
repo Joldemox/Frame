@@ -1,0 +1,819 @@
+2019-08-02 22:26:27 engine.py [line:124] INFO: the spider start at 2019-08-02 22:26:24.746134
+2019-08-02 22:26:27 engine.py [line:125] INFO: the spider end in 2019-08-02 22:26:27.383099
+2019-08-02 22:26:27 engine.py [line:126] INFO: the request's total is 5
+2019-08-02 22:26:27 engine.py [line:127] INFO: the response's total is 5
+2019-08-02 22:26:27 engine.py [line:128] INFO: the spider pass with 2.636965
+2019-08-02 22:28:16 engine.py [line:124] INFO: the spider start at 2019-08-02 22:28:14.029619
+2019-08-02 22:28:16 engine.py [line:125] INFO: the spider end in 2019-08-02 22:28:16.982646
+2019-08-02 22:28:16 engine.py [line:126] INFO: the request's total is 5
+2019-08-02 22:28:16 engine.py [line:127] INFO: the response's total is 5
+2019-08-02 22:28:16 engine.py [line:128] INFO: the spider pass with 2.953027
+2019-08-02 22:29:54 engine.py [line:124] INFO: the spider start at 2019-08-02 22:29:52.468775
+2019-08-02 22:29:54 engine.py [line:125] INFO: the spider end in 2019-08-02 22:29:54.297780
+2019-08-02 22:29:54 engine.py [line:126] INFO: the request's total is 5
+2019-08-02 22:29:54 engine.py [line:127] INFO: the response's total is 5
+2019-08-02 22:29:54 engine.py [line:128] INFO: the spider pass with 1.829005
+2019-08-02 22:33:16 engine.py [line:124] INFO: the spider start at 2019-08-02 22:33:14.467360
+2019-08-02 22:33:16 engine.py [line:125] INFO: the spider end in 2019-08-02 22:33:16.265405
+2019-08-02 22:33:16 engine.py [line:126] INFO: the request's total is 5
+2019-08-02 22:33:16 engine.py [line:127] INFO: the response's total is 5
+2019-08-02 22:33:16 engine.py [line:128] INFO: the spider pass with 1.798045
+2019-08-02 22:34:10 engine.py [line:124] INFO: the spider start at 2019-08-02 22:34:05.112824
+2019-08-02 22:34:10 engine.py [line:125] INFO: the spider end in 2019-08-02 22:34:10.952044
+2019-08-02 22:34:10 engine.py [line:126] INFO: the request's total is 5
+2019-08-02 22:34:10 engine.py [line:127] INFO: the response's total is 5
+2019-08-02 22:34:10 engine.py [line:128] INFO: the spider pass with 5.83922
+2019-08-02 22:41:49 engine.py [line:124] INFO: the spider start at 2019-08-02 22:41:47.269599
+2019-08-02 22:41:49 engine.py [line:125] INFO: the spider end in 2019-08-02 22:41:49.788299
+2019-08-02 22:41:49 engine.py [line:126] INFO: the request's total is 3
+2019-08-02 22:41:49 engine.py [line:127] INFO: the response's total is 3
+2019-08-02 22:41:49 engine.py [line:128] INFO: the spider pass with 2.5187
+2019-08-02 22:43:26 engine.py [line:124] INFO: the spider start at 2019-08-02 22:43:24.159932
+2019-08-02 22:43:26 engine.py [line:125] INFO: the spider end in 2019-08-02 22:43:26.701828
+2019-08-02 22:43:26 engine.py [line:126] INFO: the request's total is 5
+2019-08-02 22:43:26 engine.py [line:127] INFO: the response's total is 5
+2019-08-02 22:43:26 engine.py [line:128] INFO: the spider pass with 2.541896
+2019-08-02 22:44:20 engine.py [line:124] INFO: the spider start at 2019-08-02 22:44:16.311344
+2019-08-02 22:44:20 engine.py [line:125] INFO: the spider end in 2019-08-02 22:44:20.303298
+2019-08-02 22:44:20 engine.py [line:126] INFO: the request's total is 5
+2019-08-02 22:44:20 engine.py [line:127] INFO: the response's total is 5
+2019-08-02 22:44:20 engine.py [line:128] INFO: the spider pass with 3.991954
+2019-08-03 10:21:32 engine.py [line:129] INFO: the spider start at 2019-08-03 10:21:30.955347
+2019-08-03 10:21:32 engine.py [line:130] INFO: the spider end in 2019-08-03 10:21:32.668615
+2019-08-03 10:21:32 engine.py [line:131] INFO: the request's total is 5
+2019-08-03 10:21:32 engine.py [line:132] INFO: the response's total is 5
+2019-08-03 10:21:32 engine.py [line:133] INFO: the spider pass with 1.713268
+2019-08-03 11:08:12 engine.py [line:144] INFO: the spider start at 2019-08-03 11:08:10.830408
+2019-08-03 11:08:12 engine.py [line:145] INFO: the spider end in 2019-08-03 11:08:12.576205
+2019-08-03 11:08:12 engine.py [line:146] INFO: the request's total is 3
+2019-08-03 11:08:12 engine.py [line:147] INFO: the response's total is 3
+2019-08-03 11:08:12 engine.py [line:148] INFO: the spider pass with 1.745797
+2019-08-03 11:21:16 scheduler.py [line:38] INFO: this is a repetitive request:http://www.so.com/
+2019-08-03 11:22:33 scheduler.py [line:38] INFO: this is a repetitive request:http://www.so.com/
+2019-08-03 11:23:44 scheduler.py [line:38] INFO: this is a repetitive request:http://www.so.com/
+2019-08-03 11:28:55 scheduler.py [line:40] INFO: this is a repetitive request:http://www.so.com/
+2019-08-03 11:28:57 engine.py [line:144] INFO: the spider start at 2019-08-03 11:28:55.735758
+2019-08-03 11:28:57 engine.py [line:145] INFO: the spider end in 2019-08-03 11:28:57.389731
+2019-08-03 11:28:57 engine.py [line:146] INFO: the request's total is 4
+2019-08-03 11:28:57 engine.py [line:147] INFO: the repetitive request's total is 1
+2019-08-03 11:28:57 engine.py [line:148] INFO: the response's total is 3
+2019-08-03 11:28:57 engine.py [line:149] INFO: the spider pass with 1.653973
+2019-08-03 11:29:23 scheduler.py [line:40] INFO: this is a repetitive request:http://www.so.com/
+2019-08-03 11:29:26 engine.py [line:144] INFO: the spider start at 2019-08-03 11:29:23.802672
+2019-08-03 11:29:26 engine.py [line:145] INFO: the spider end in 2019-08-03 11:29:26.106468
+2019-08-03 11:29:26 engine.py [line:146] INFO: the request's total is 6
+2019-08-03 11:29:26 engine.py [line:147] INFO: the repetitive request's total is 1
+2019-08-03 11:29:26 engine.py [line:148] INFO: the response's total is 5
+2019-08-03 11:29:26 engine.py [line:149] INFO: the spider pass with 2.303796
+2019-08-03 14:32:30 scheduler.py [line:46] INFO: this is a repetitive request:http://www.so.com/
+2019-08-03 14:32:32 engine.py [line:144] INFO: the spider start at 2019-08-03 14:32:30.532518
+2019-08-03 14:32:32 engine.py [line:145] INFO: the spider end in 2019-08-03 14:32:32.536898
+2019-08-03 14:32:32 engine.py [line:146] INFO: the request's total is 6
+2019-08-03 14:32:32 engine.py [line:147] INFO: the repetitive request's total is 1
+2019-08-03 14:32:32 engine.py [line:148] INFO: the response's total is 5
+2019-08-03 14:32:32 engine.py [line:149] INFO: the spider pass with 2.00438
+2019-08-03 14:37:52 scheduler.py [line:36] INFO: this is a repetitive request:http://www.so.com/
+2019-08-03 14:37:54 engine.py [line:144] INFO: the spider start at 2019-08-03 14:37:52.748097
+2019-08-03 14:37:54 engine.py [line:145] INFO: the spider end in 2019-08-03 14:37:54.711971
+2019-08-03 14:37:54 engine.py [line:146] INFO: the request's total is 6
+2019-08-03 14:37:54 engine.py [line:147] INFO: the repetitive request's total is 1
+2019-08-03 14:37:54 engine.py [line:148] INFO: the response's total is 5
+2019-08-03 14:37:54 engine.py [line:149] INFO: the spider pass with 1.963874
+2019-08-03 14:44:24 scheduler.py [line:36] INFO: this is a repetitive request:http://www.so.com/
+2019-08-03 14:44:26 engine.py [line:154] INFO: the spider start at 2019-08-03 14:44:24.728412
+2019-08-03 14:44:26 engine.py [line:155] INFO: the spider end in 2019-08-03 14:44:26.480141
+2019-08-03 14:44:26 engine.py [line:156] INFO: the request's total is 6
+2019-08-03 14:44:26 engine.py [line:157] INFO: the repetitive request's total is 1
+2019-08-03 14:44:26 engine.py [line:158] INFO: the response's total is 5
+2019-08-03 14:44:26 engine.py [line:159] INFO: the spider pass with 1.751729
+2019-08-03 15:25:51 scheduler.py [line:36] INFO: this is a repetitive request:http://www.so.com/
+2019-08-03 15:26:23 scheduler.py [line:36] INFO: this is a repetitive request:http://www.so.com/
+2019-08-03 15:26:43 scheduler.py [line:36] INFO: this is a repetitive request:http://www.so.com/
+2019-08-03 15:27:20 scheduler.py [line:36] INFO: this is a repetitive request:http://www.so.com/
+2019-08-03 15:27:22 engine.py [line:163] INFO: the spider start at 2019-08-03 15:27:20.108889
+2019-08-03 15:27:22 engine.py [line:164] INFO: the spider end in 2019-08-03 15:27:22.366246
+2019-08-03 15:27:22 engine.py [line:165] INFO: the request's total is 6
+2019-08-03 15:27:22 engine.py [line:166] INFO: the repetitive request's total is 1
+2019-08-03 15:27:22 engine.py [line:167] INFO: the response's total is 5
+2019-08-03 15:27:22 engine.py [line:168] INFO: the spider pass with 2.257357
+2019-08-03 15:27:32 scheduler.py [line:36] INFO: this is a repetitive request:http://www.so.com/
+2019-08-03 15:27:53 scheduler.py [line:36] INFO: this is a repetitive request:http://www.so.com/
+2019-08-03 15:28:03 scheduler.py [line:36] INFO: this is a repetitive request:http://www.so.com/
+2019-08-03 15:28:05 engine.py [line:164] INFO: the spider start at 2019-08-03 15:28:03.214903
+2019-08-03 15:28:05 engine.py [line:165] INFO: the spider end in 2019-08-03 15:28:05.895385
+2019-08-03 15:28:05 engine.py [line:166] INFO: the request's total is 6
+2019-08-03 15:28:05 engine.py [line:167] INFO: the repetitive request's total is 1
+2019-08-03 15:28:05 engine.py [line:168] INFO: the response's total is 5
+2019-08-03 15:28:05 engine.py [line:169] INFO: the spider pass with 2.680482
+2019-08-03 15:28:56 scheduler.py [line:36] INFO: this is a repetitive request:http://www.so.com/
+2019-08-03 15:28:56 scheduler.py [line:36] INFO: this is a repetitive request:http://www.so.com/
+2019-08-03 15:32:38 scheduler.py [line:36] INFO: this is a repetitive request:http://www.so.com/
+2019-08-03 15:32:38 scheduler.py [line:36] INFO: this is a repetitive request:http://www.so.com/
+2019-08-03 15:33:00 scheduler.py [line:36] INFO: this is a repetitive request:http://www.so.com/
+2019-08-03 15:33:00 scheduler.py [line:36] INFO: this is a repetitive request:http://www.so.com/
+2019-08-03 15:33:35 scheduler.py [line:36] INFO: this is a repetitive request:http://www.so.com/
+2019-08-03 15:33:35 scheduler.py [line:36] INFO: this is a repetitive request:http://www.so.com/
+2019-08-03 15:33:49 scheduler.py [line:36] INFO: this is a repetitive request:http://www.so.com/
+2019-08-03 15:33:49 scheduler.py [line:36] INFO: this is a repetitive request:http://www.so.com/
+2019-08-03 15:34:01 scheduler.py [line:36] INFO: this is a repetitive request:http://www.so.com/
+2019-08-03 15:34:01 scheduler.py [line:36] INFO: this is a repetitive request:http://www.so.com/
+2019-08-03 15:34:03 engine.py [line:167] INFO: the spider start at 2019-08-03 15:34:01.243108
+2019-08-03 15:34:03 engine.py [line:168] INFO: the spider end in 2019-08-03 15:34:03.704950
+2019-08-03 15:34:03 engine.py [line:169] INFO: the request's total is 8
+2019-08-03 15:34:03 engine.py [line:170] INFO: the repetitive request's total is 2
+2019-08-03 15:34:03 engine.py [line:171] INFO: the response's total is 6
+2019-08-03 15:34:03 engine.py [line:172] INFO: the spider pass with 2.461842
+2019-08-03 15:36:49 scheduler.py [line:36] INFO: this is a repetitive request:http://www.so.com/
+2019-08-03 15:36:49 scheduler.py [line:36] INFO: this is a repetitive request:http://www.so.com/
+2019-08-03 15:36:50 engine.py [line:167] INFO: the spider start at 2019-08-03 15:36:49.217349
+2019-08-03 15:36:50 engine.py [line:168] INFO: the spider end in 2019-08-03 15:36:50.142235
+2019-08-03 15:36:50 engine.py [line:169] INFO: the request's total is 8
+2019-08-03 15:36:50 engine.py [line:170] INFO: the repetitive request's total is 2
+2019-08-03 15:36:50 engine.py [line:171] INFO: the response's total is 6
+2019-08-03 15:36:50 engine.py [line:172] INFO: the spider pass with 0.924886
+2019-08-03 15:36:58 scheduler.py [line:36] INFO: this is a repetitive request:http://www.so.com/
+2019-08-03 15:36:58 scheduler.py [line:36] INFO: this is a repetitive request:http://www.so.com/
+2019-08-03 15:36:59 engine.py [line:167] INFO: the spider start at 2019-08-03 15:36:58.383271
+2019-08-03 15:36:59 engine.py [line:168] INFO: the spider end in 2019-08-03 15:36:59.625019
+2019-08-03 15:36:59 engine.py [line:169] INFO: the request's total is 8
+2019-08-03 15:36:59 engine.py [line:170] INFO: the repetitive request's total is 2
+2019-08-03 15:36:59 engine.py [line:171] INFO: the response's total is 6
+2019-08-03 15:36:59 engine.py [line:172] INFO: the spider pass with 1.241748
+2019-08-03 15:37:05 scheduler.py [line:36] INFO: this is a repetitive request:http://www.so.com/
+2019-08-03 15:37:05 scheduler.py [line:36] INFO: this is a repetitive request:http://www.so.com/
+2019-08-03 15:37:07 engine.py [line:167] INFO: the spider start at 2019-08-03 15:37:05.887210
+2019-08-03 15:37:07 engine.py [line:168] INFO: the spider end in 2019-08-03 15:37:07.028894
+2019-08-03 15:37:07 engine.py [line:169] INFO: the request's total is 8
+2019-08-03 15:37:07 engine.py [line:170] INFO: the repetitive request's total is 2
+2019-08-03 15:37:07 engine.py [line:171] INFO: the response's total is 6
+2019-08-03 15:37:07 engine.py [line:172] INFO: the spider pass with 1.141684
+2019-08-03 15:39:22 scheduler.py [line:36] INFO: this is a repetitive request:http://www.so.com/
+2019-08-03 15:39:22 scheduler.py [line:36] INFO: this is a repetitive request:http://www.so.com/
+2019-08-03 15:39:23 engine.py [line:168] INFO: the spider start at 2019-08-03 15:39:22.828196
+2019-08-03 15:39:23 engine.py [line:169] INFO: the spider end in 2019-08-03 15:39:23.650477
+2019-08-03 15:39:23 engine.py [line:170] INFO: the request's total is 8
+2019-08-03 15:39:23 engine.py [line:171] INFO: the repetitive request's total is 2
+2019-08-03 15:39:23 engine.py [line:172] INFO: the response's total is 6
+2019-08-03 15:39:23 engine.py [line:173] INFO: the spider pass with 0.822281
+2019-08-03 15:43:31 scheduler.py [line:36] INFO: this is a repetitive request:http://www.so.com/
+2019-08-03 15:43:31 scheduler.py [line:36] INFO: this is a repetitive request:http://www.so.com/
+2019-08-03 15:43:32 engine.py [line:168] INFO: the spider start at 2019-08-03 15:43:31.118183
+2019-08-03 15:43:32 engine.py [line:169] INFO: the spider end in 2019-08-03 15:43:32.053157
+2019-08-03 15:43:32 engine.py [line:170] INFO: the request's total is 8
+2019-08-03 15:43:32 engine.py [line:171] INFO: the repetitive request's total is 2
+2019-08-03 15:43:32 engine.py [line:172] INFO: the response's total is 6
+2019-08-03 15:43:32 engine.py [line:173] INFO: the spider pass with 0.934974
+2019-08-03 15:43:38 scheduler.py [line:36] INFO: this is a repetitive request:http://www.so.com/
+2019-08-03 15:43:38 scheduler.py [line:36] INFO: this is a repetitive request:http://www.so.com/
+2019-08-03 15:43:39 engine.py [line:168] INFO: the spider start at 2019-08-03 15:43:38.027795
+2019-08-03 15:43:39 engine.py [line:169] INFO: the spider end in 2019-08-03 15:43:39.263583
+2019-08-03 15:43:39 engine.py [line:170] INFO: the request's total is 8
+2019-08-03 15:43:39 engine.py [line:171] INFO: the repetitive request's total is 2
+2019-08-03 15:43:39 engine.py [line:172] INFO: the response's total is 6
+2019-08-03 15:43:39 engine.py [line:173] INFO: the spider pass with 1.235788
+2019-08-03 15:47:06 scheduler.py [line:36] INFO: this is a repetitive request:http://www.so.com/
+2019-08-03 15:47:06 scheduler.py [line:36] INFO: this is a repetitive request:http://www.so.com/
+2019-08-03 15:47:07 engine.py [line:168] INFO: the spider start at 2019-08-03 15:47:06.728337
+2019-08-03 15:47:07 engine.py [line:169] INFO: the spider end in 2019-08-03 15:47:07.552398
+2019-08-03 15:47:07 engine.py [line:170] INFO: the request's total is 8
+2019-08-03 15:47:07 engine.py [line:171] INFO: the repetitive request's total is 2
+2019-08-03 15:47:07 engine.py [line:172] INFO: the response's total is 6
+2019-08-03 15:47:07 engine.py [line:173] INFO: the spider pass with 0.824061
+2019-08-03 17:53:19 scheduler.py [line:36] INFO: this is a repetitive request:http://www.so.com/
+2019-08-03 17:53:19 scheduler.py [line:36] INFO: this is a repetitive request:http://www.so.com/
+2019-08-03 17:53:20 engine.py [line:182] INFO: the self_async is thread
+2019-08-03 17:53:20 engine.py [line:183] INFO: the spider start at 2019-08-03 17:53:19.966345
+2019-08-03 17:53:20 engine.py [line:184] INFO: the spider end in 2019-08-03 17:53:20.793093
+2019-08-03 17:53:20 engine.py [line:185] INFO: the request's total is 8
+2019-08-03 17:53:20 engine.py [line:186] INFO: the repetitive request's total is 2
+2019-08-03 17:53:20 engine.py [line:187] INFO: the response's total is 6
+2019-08-03 17:53:20 engine.py [line:188] INFO: the spider pass with 0.826748
+2019-08-03 17:55:36 scheduler.py [line:36] INFO: this is a repetitive request:http://www.so.com/
+2019-08-03 17:55:36 scheduler.py [line:36] INFO: this is a repetitive request:http://www.so.com/
+2019-08-03 17:55:37 engine.py [line:183] INFO: the self_async is thread
+2019-08-03 17:55:37 engine.py [line:184] INFO: the spider start at 2019-08-03 17:55:36.326769
+2019-08-03 17:55:37 engine.py [line:185] INFO: the spider end in 2019-08-03 17:55:37.360967
+2019-08-03 17:55:37 engine.py [line:186] INFO: the request's total is 8
+2019-08-03 17:55:37 engine.py [line:187] INFO: the repetitive request's total is 2
+2019-08-03 17:55:37 engine.py [line:188] INFO: the response's total is 6
+2019-08-03 17:55:37 engine.py [line:189] INFO: the spider pass with 1.034198
+2019-08-03 17:55:59 scheduler.py [line:36] INFO: this is a repetitive request:http://www.so.com/
+2019-08-03 17:55:59 scheduler.py [line:36] INFO: this is a repetitive request:http://www.so.com/
+2019-08-03 17:56:01 engine.py [line:183] INFO: the self_async is coroutine
+2019-08-03 17:56:01 engine.py [line:184] INFO: the spider start at 2019-08-03 17:55:59.932268
+2019-08-03 17:56:01 engine.py [line:185] INFO: the spider end in 2019-08-03 17:56:01.422729
+2019-08-03 17:56:01 engine.py [line:186] INFO: the request's total is 8
+2019-08-03 17:56:01 engine.py [line:187] INFO: the repetitive request's total is 2
+2019-08-03 17:56:01 engine.py [line:188] INFO: the response's total is 6
+2019-08-03 17:56:01 engine.py [line:189] INFO: the spider pass with 1.490461
+2019-08-05 10:36:20 scheduler.py [line:45] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 10:36:20 scheduler.py [line:45] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 10:36:21 engine.py [line:184] INFO: this is a distribute spider:False
+2019-08-05 10:36:21 engine.py [line:185] INFO: the self_async is coroutine
+2019-08-05 10:36:21 engine.py [line:186] INFO: the spider start at 2019-08-05 10:36:20.861212
+2019-08-05 10:36:21 engine.py [line:187] INFO: the spider end in 2019-08-05 10:36:21.420876
+2019-08-05 10:36:21 engine.py [line:188] INFO: the request's total is 8
+2019-08-05 10:36:21 engine.py [line:189] INFO: the repetitive request's total is 2
+2019-08-05 10:36:21 engine.py [line:190] INFO: the response's total is 6
+2019-08-05 10:36:21 engine.py [line:191] INFO: the spider pass with 0.559664
+2019-08-05 10:36:44 scheduler.py [line:45] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 10:36:44 scheduler.py [line:45] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 10:36:44 engine.py [line:184] INFO: this is a distribute spider:True
+2019-08-05 10:36:44 engine.py [line:185] INFO: the self_async is coroutine
+2019-08-05 10:36:44 engine.py [line:186] INFO: the spider start at 2019-08-05 10:36:44.959046
+2019-08-05 10:36:44 engine.py [line:187] INFO: the spider end in 2019-08-05 10:36:44.971757
+2019-08-05 10:36:44 engine.py [line:188] INFO: the request's total is 8
+2019-08-05 10:36:44 engine.py [line:189] INFO: the repetitive request's total is 2
+2019-08-05 10:36:44 engine.py [line:190] INFO: the response's total is 0
+2019-08-05 10:36:44 engine.py [line:191] INFO: the spider pass with 0.012711
+2019-08-05 10:37:01 scheduler.py [line:45] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 10:37:01 scheduler.py [line:45] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 10:37:02 engine.py [line:184] INFO: this is a distribute spider:True
+2019-08-05 10:37:02 engine.py [line:185] INFO: the self_async is coroutine
+2019-08-05 10:37:02 engine.py [line:186] INFO: the spider start at 2019-08-05 10:37:01.422401
+2019-08-05 10:37:02 engine.py [line:187] INFO: the spider end in 2019-08-05 10:37:02.275331
+2019-08-05 10:37:02 engine.py [line:188] INFO: the request's total is 8
+2019-08-05 10:37:02 engine.py [line:189] INFO: the repetitive request's total is 2
+2019-08-05 10:37:02 engine.py [line:190] INFO: the response's total is 5
+2019-08-05 10:37:02 engine.py [line:191] INFO: the spider pass with 0.85293
+2019-08-05 10:37:27 scheduler.py [line:45] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 10:37:27 scheduler.py [line:45] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 10:37:28 engine.py [line:184] INFO: this is a distribute spider:True
+2019-08-05 10:37:28 engine.py [line:185] INFO: the self_async is coroutine
+2019-08-05 10:37:28 engine.py [line:186] INFO: the spider start at 2019-08-05 10:37:27.712031
+2019-08-05 10:37:28 engine.py [line:187] INFO: the spider end in 2019-08-05 10:37:28.089010
+2019-08-05 10:37:28 engine.py [line:188] INFO: the request's total is 8
+2019-08-05 10:37:28 engine.py [line:189] INFO: the repetitive request's total is 2
+2019-08-05 10:37:28 engine.py [line:190] INFO: the response's total is 5
+2019-08-05 10:37:28 engine.py [line:191] INFO: the spider pass with 0.376979
+2019-08-05 10:37:41 scheduler.py [line:45] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 10:37:41 scheduler.py [line:45] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 10:37:43 engine.py [line:184] INFO: this is a distribute spider:False
+2019-08-05 10:37:43 engine.py [line:185] INFO: the self_async is coroutine
+2019-08-05 10:37:43 engine.py [line:186] INFO: the spider start at 2019-08-05 10:37:41.142464
+2019-08-05 10:37:43 engine.py [line:187] INFO: the spider end in 2019-08-05 10:37:43.703488
+2019-08-05 10:37:43 engine.py [line:188] INFO: the request's total is 8
+2019-08-05 10:37:43 engine.py [line:189] INFO: the repetitive request's total is 2
+2019-08-05 10:37:43 engine.py [line:190] INFO: the response's total is 6
+2019-08-05 10:37:43 engine.py [line:191] INFO: the spider pass with 2.561024
+2019-08-05 10:37:54 scheduler.py [line:45] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 10:37:54 scheduler.py [line:45] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 10:37:54 engine.py [line:184] INFO: this is a distribute spider:True
+2019-08-05 10:37:54 engine.py [line:185] INFO: the self_async is coroutine
+2019-08-05 10:37:54 engine.py [line:186] INFO: the spider start at 2019-08-05 10:37:54.158826
+2019-08-05 10:37:54 engine.py [line:187] INFO: the spider end in 2019-08-05 10:37:54.569634
+2019-08-05 10:37:54 engine.py [line:188] INFO: the request's total is 8
+2019-08-05 10:37:54 engine.py [line:189] INFO: the repetitive request's total is 2
+2019-08-05 10:37:54 engine.py [line:190] INFO: the response's total is 5
+2019-08-05 10:37:54 engine.py [line:191] INFO: the spider pass with 0.410808
+2019-08-05 10:38:25 scheduler.py [line:45] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 10:38:25 scheduler.py [line:45] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 10:38:32 engine.py [line:184] INFO: this is a distribute spider:True
+2019-08-05 10:38:32 engine.py [line:185] INFO: the self_async is coroutine
+2019-08-05 10:38:32 engine.py [line:186] INFO: the spider start at 2019-08-05 10:38:25.437499
+2019-08-05 10:38:32 engine.py [line:187] INFO: the spider end in 2019-08-05 10:38:32.228622
+2019-08-05 10:38:32 engine.py [line:188] INFO: the request's total is 8
+2019-08-05 10:38:32 engine.py [line:189] INFO: the repetitive request's total is 2
+2019-08-05 10:38:32 engine.py [line:190] INFO: the response's total is 11
+2019-08-05 10:38:32 engine.py [line:191] INFO: the spider pass with 6.791123
+2019-08-05 10:38:41 scheduler.py [line:45] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 10:38:41 scheduler.py [line:45] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 10:38:42 engine.py [line:184] INFO: this is a distribute spider:True
+2019-08-05 10:38:42 engine.py [line:185] INFO: the self_async is coroutine
+2019-08-05 10:38:42 engine.py [line:186] INFO: the spider start at 2019-08-05 10:38:41.486255
+2019-08-05 10:38:42 engine.py [line:187] INFO: the spider end in 2019-08-05 10:38:42.167793
+2019-08-05 10:38:42 engine.py [line:188] INFO: the request's total is 8
+2019-08-05 10:38:42 engine.py [line:189] INFO: the repetitive request's total is 2
+2019-08-05 10:38:42 engine.py [line:190] INFO: the response's total is 10
+2019-08-05 10:38:42 engine.py [line:191] INFO: the spider pass with 0.681538
+2019-08-05 10:38:56 scheduler.py [line:45] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 10:38:56 scheduler.py [line:45] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 10:38:56 engine.py [line:184] INFO: this is a distribute spider:True
+2019-08-05 10:38:56 engine.py [line:185] INFO: the self_async is coroutine
+2019-08-05 10:38:56 engine.py [line:186] INFO: the spider start at 2019-08-05 10:38:56.451451
+2019-08-05 10:38:56 engine.py [line:187] INFO: the spider end in 2019-08-05 10:38:56.909623
+2019-08-05 10:38:56 engine.py [line:188] INFO: the request's total is 8
+2019-08-05 10:38:56 engine.py [line:189] INFO: the repetitive request's total is 2
+2019-08-05 10:38:56 engine.py [line:190] INFO: the response's total is 1
+2019-08-05 10:38:56 engine.py [line:191] INFO: the spider pass with 0.458172
+2019-08-05 10:39:00 scheduler.py [line:45] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 10:39:00 scheduler.py [line:45] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 10:39:01 engine.py [line:184] INFO: this is a distribute spider:True
+2019-08-05 10:39:01 engine.py [line:185] INFO: the self_async is coroutine
+2019-08-05 10:39:01 engine.py [line:186] INFO: the spider start at 2019-08-05 10:39:00.629683
+2019-08-05 10:39:01 engine.py [line:187] INFO: the spider end in 2019-08-05 10:39:01.110309
+2019-08-05 10:39:01 engine.py [line:188] INFO: the request's total is 8
+2019-08-05 10:39:01 engine.py [line:189] INFO: the repetitive request's total is 2
+2019-08-05 10:39:01 engine.py [line:190] INFO: the response's total is 5
+2019-08-05 10:39:01 engine.py [line:191] INFO: the spider pass with 0.480626
+2019-08-05 10:40:32 scheduler.py [line:45] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 10:40:32 scheduler.py [line:45] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 10:40:33 engine.py [line:184] INFO: this is a distribute spider:True
+2019-08-05 10:40:33 engine.py [line:185] INFO: the self_async is thread
+2019-08-05 10:40:33 engine.py [line:186] INFO: the spider start at 2019-08-05 10:40:32.695059
+2019-08-05 10:40:33 engine.py [line:187] INFO: the spider end in 2019-08-05 10:40:33.202422
+2019-08-05 10:40:33 engine.py [line:188] INFO: the request's total is 8
+2019-08-05 10:40:33 engine.py [line:189] INFO: the repetitive request's total is 2
+2019-08-05 10:40:33 engine.py [line:190] INFO: the response's total is 2
+2019-08-05 10:40:33 engine.py [line:191] INFO: the spider pass with 0.507363
+2019-08-05 10:40:38 scheduler.py [line:45] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 10:40:38 scheduler.py [line:45] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 10:40:39 engine.py [line:184] INFO: this is a distribute spider:True
+2019-08-05 10:40:39 engine.py [line:185] INFO: the self_async is thread
+2019-08-05 10:40:39 engine.py [line:186] INFO: the spider start at 2019-08-05 10:40:38.702674
+2019-08-05 10:40:39 engine.py [line:187] INFO: the spider end in 2019-08-05 10:40:39.525850
+2019-08-05 10:40:39 engine.py [line:188] INFO: the request's total is 8
+2019-08-05 10:40:39 engine.py [line:189] INFO: the repetitive request's total is 2
+2019-08-05 10:40:39 engine.py [line:190] INFO: the response's total is 5
+2019-08-05 10:40:39 engine.py [line:191] INFO: the spider pass with 0.823176
+2019-08-05 10:40:44 scheduler.py [line:45] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 10:40:44 scheduler.py [line:45] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 10:40:45 engine.py [line:184] INFO: this is a distribute spider:True
+2019-08-05 10:40:45 engine.py [line:185] INFO: the self_async is thread
+2019-08-05 10:40:45 engine.py [line:186] INFO: the spider start at 2019-08-05 10:40:44.783070
+2019-08-05 10:40:45 engine.py [line:187] INFO: the spider end in 2019-08-05 10:40:45.607947
+2019-08-05 10:40:45 engine.py [line:188] INFO: the request's total is 8
+2019-08-05 10:40:45 engine.py [line:189] INFO: the repetitive request's total is 2
+2019-08-05 10:40:45 engine.py [line:190] INFO: the response's total is 11
+2019-08-05 10:40:45 engine.py [line:191] INFO: the spider pass with 0.824877
+2019-08-05 10:40:49 scheduler.py [line:45] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 10:40:49 scheduler.py [line:45] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 10:40:50 engine.py [line:184] INFO: this is a distribute spider:True
+2019-08-05 10:40:50 engine.py [line:185] INFO: the self_async is thread
+2019-08-05 10:40:50 engine.py [line:186] INFO: the spider start at 2019-08-05 10:40:49.749380
+2019-08-05 10:40:50 engine.py [line:187] INFO: the spider end in 2019-08-05 10:40:50.059607
+2019-08-05 10:40:50 engine.py [line:188] INFO: the request's total is 8
+2019-08-05 10:40:50 engine.py [line:189] INFO: the repetitive request's total is 2
+2019-08-05 10:40:50 engine.py [line:190] INFO: the response's total is 2
+2019-08-05 10:40:50 engine.py [line:191] INFO: the spider pass with 0.310227
+2019-08-05 10:40:55 scheduler.py [line:45] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 10:40:55 scheduler.py [line:45] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 10:40:55 engine.py [line:184] INFO: this is a distribute spider:True
+2019-08-05 10:40:55 engine.py [line:185] INFO: the self_async is thread
+2019-08-05 10:40:55 engine.py [line:186] INFO: the spider start at 2019-08-05 10:40:55.003079
+2019-08-05 10:40:55 engine.py [line:187] INFO: the spider end in 2019-08-05 10:40:55.831473
+2019-08-05 10:40:55 engine.py [line:188] INFO: the request's total is 8
+2019-08-05 10:40:55 engine.py [line:189] INFO: the repetitive request's total is 2
+2019-08-05 10:40:55 engine.py [line:190] INFO: the response's total is 10
+2019-08-05 10:40:55 engine.py [line:191] INFO: the spider pass with 0.828394
+2019-08-05 10:41:04 scheduler.py [line:45] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 10:41:04 scheduler.py [line:45] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 10:41:05 engine.py [line:184] INFO: this is a distribute spider:True
+2019-08-05 10:41:05 engine.py [line:185] INFO: the self_async is thread
+2019-08-05 10:41:05 engine.py [line:186] INFO: the spider start at 2019-08-05 10:41:04.925377
+2019-08-05 10:41:05 engine.py [line:187] INFO: the spider end in 2019-08-05 10:41:05.236098
+2019-08-05 10:41:05 engine.py [line:188] INFO: the request's total is 8
+2019-08-05 10:41:05 engine.py [line:189] INFO: the repetitive request's total is 2
+2019-08-05 10:41:05 engine.py [line:190] INFO: the response's total is 1
+2019-08-05 10:41:05 engine.py [line:191] INFO: the spider pass with 0.310721
+2019-08-05 10:41:08 scheduler.py [line:45] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 10:41:08 scheduler.py [line:45] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 10:41:08 engine.py [line:184] INFO: this is a distribute spider:True
+2019-08-05 10:41:08 engine.py [line:185] INFO: the self_async is thread
+2019-08-05 10:41:08 engine.py [line:186] INFO: the spider start at 2019-08-05 10:41:08.202258
+2019-08-05 10:41:08 engine.py [line:187] INFO: the spider end in 2019-08-05 10:41:08.618747
+2019-08-05 10:41:08 engine.py [line:188] INFO: the request's total is 8
+2019-08-05 10:41:08 engine.py [line:189] INFO: the repetitive request's total is 2
+2019-08-05 10:41:08 engine.py [line:190] INFO: the response's total is 5
+2019-08-05 10:41:08 engine.py [line:191] INFO: the spider pass with 0.416489
+2019-08-05 11:14:36 scheduler.py [line:51] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 11:14:36 scheduler.py [line:51] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 11:14:36 engine.py [line:184] INFO: this is a distribute spider:True
+2019-08-05 11:14:36 engine.py [line:185] INFO: the self_async is thread
+2019-08-05 11:14:36 engine.py [line:186] INFO: the spider start at 2019-08-05 11:14:36.220057
+2019-08-05 11:14:36 engine.py [line:187] INFO: the spider end in 2019-08-05 11:14:36.635098
+2019-08-05 11:14:36 engine.py [line:188] INFO: the request's total is 8
+2019-08-05 11:14:36 engine.py [line:189] INFO: the repetitive request's total is 2
+2019-08-05 11:14:36 engine.py [line:190] INFO: the response's total is 5
+2019-08-05 11:14:36 engine.py [line:191] INFO: the spider pass with 0.415041
+2019-08-05 11:14:50 scheduler.py [line:51] INFO: this is a repetitive request:http://www.itcast.cn/
+2019-08-05 11:14:50 scheduler.py [line:51] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 11:14:50 scheduler.py [line:51] INFO: this is a repetitive request:http://www.baidu.com/
+2019-08-05 11:14:50 scheduler.py [line:51] INFO: this is a repetitive request:http://v.baidu.com/
+2019-08-05 11:14:50 scheduler.py [line:51] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 11:14:50 scheduler.py [line:51] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 11:14:50 scheduler.py [line:51] INFO: this is a repetitive request:http://movie.douban.com/top250?start=0
+2019-08-05 11:14:50 scheduler.py [line:51] INFO: this is a repetitive request:http://movie.douban.com/top250?start=25
+2019-08-05 11:14:50 engine.py [line:184] INFO: this is a distribute spider:True
+2019-08-05 11:14:50 engine.py [line:185] INFO: the self_async is thread
+2019-08-05 11:14:50 engine.py [line:186] INFO: the spider start at 2019-08-05 11:14:50.254651
+2019-08-05 11:14:50 engine.py [line:187] INFO: the spider end in 2019-08-05 11:14:50.665654
+2019-08-05 11:14:50 engine.py [line:188] INFO: the request's total is 8
+2019-08-05 11:14:50 engine.py [line:189] INFO: the repetitive request's total is 8
+2019-08-05 11:14:50 engine.py [line:190] INFO: the response's total is 5
+2019-08-05 11:14:50 engine.py [line:191] INFO: the spider pass with 0.411003
+2019-08-05 11:15:19 scheduler.py [line:51] INFO: this is a repetitive request:http://www.itcast.cn/
+2019-08-05 11:15:19 scheduler.py [line:51] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 11:15:19 scheduler.py [line:51] INFO: this is a repetitive request:http://www.baidu.com/
+2019-08-05 11:15:19 scheduler.py [line:51] INFO: this is a repetitive request:http://v.baidu.com/
+2019-08-05 11:15:19 scheduler.py [line:51] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 11:15:19 scheduler.py [line:51] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 11:15:19 scheduler.py [line:51] INFO: this is a repetitive request:http://movie.douban.com/top250?start=0
+2019-08-05 11:15:19 scheduler.py [line:51] INFO: this is a repetitive request:http://movie.douban.com/top250?start=25
+2019-08-05 11:15:19 engine.py [line:184] INFO: this is a distribute spider:True
+2019-08-05 11:15:19 engine.py [line:185] INFO: the self_async is thread
+2019-08-05 11:15:19 engine.py [line:186] INFO: the spider start at 2019-08-05 11:15:19.517783
+2019-08-05 11:15:19 engine.py [line:187] INFO: the spider end in 2019-08-05 11:15:19.929712
+2019-08-05 11:15:19 engine.py [line:188] INFO: the request's total is 8
+2019-08-05 11:15:19 engine.py [line:189] INFO: the repetitive request's total is 8
+2019-08-05 11:15:19 engine.py [line:190] INFO: the response's total is 2
+2019-08-05 11:15:19 engine.py [line:191] INFO: the spider pass with 0.411929
+2019-08-05 11:15:59 scheduler.py [line:51] INFO: this is a repetitive request:http://www.itcast.cn/
+2019-08-05 11:15:59 scheduler.py [line:51] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 11:15:59 scheduler.py [line:51] INFO: this is a repetitive request:http://www.baidu.com/
+2019-08-05 11:15:59 scheduler.py [line:51] INFO: this is a repetitive request:http://v.baidu.com/
+2019-08-05 11:15:59 scheduler.py [line:51] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 11:15:59 scheduler.py [line:51] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 11:15:59 scheduler.py [line:51] INFO: this is a repetitive request:http://movie.douban.com/top250?start=0
+2019-08-05 11:15:59 scheduler.py [line:51] INFO: this is a repetitive request:http://movie.douban.com/top250?start=25
+2019-08-05 11:15:59 engine.py [line:184] INFO: this is a distribute spider:True
+2019-08-05 11:15:59 engine.py [line:185] INFO: the self_async is thread
+2019-08-05 11:15:59 engine.py [line:186] INFO: the spider start at 2019-08-05 11:15:59.882406
+2019-08-05 11:15:59 engine.py [line:187] INFO: the spider end in 2019-08-05 11:15:59.987325
+2019-08-05 11:15:59 engine.py [line:188] INFO: the request's total is 8
+2019-08-05 11:15:59 engine.py [line:189] INFO: the repetitive request's total is 8
+2019-08-05 11:15:59 engine.py [line:190] INFO: the response's total is 0
+2019-08-05 11:15:59 engine.py [line:191] INFO: the spider pass with 0.104919
+2019-08-05 11:16:11 scheduler.py [line:51] INFO: this is a repetitive request:http://www.itcast.cn/
+2019-08-05 11:16:11 scheduler.py [line:51] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 11:16:11 scheduler.py [line:51] INFO: this is a repetitive request:http://www.baidu.com/
+2019-08-05 11:16:11 scheduler.py [line:51] INFO: this is a repetitive request:http://v.baidu.com/
+2019-08-05 11:16:11 scheduler.py [line:51] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 11:16:11 scheduler.py [line:51] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 11:16:11 scheduler.py [line:51] INFO: this is a repetitive request:http://movie.douban.com/top250?start=0
+2019-08-05 11:16:11 scheduler.py [line:51] INFO: this is a repetitive request:http://movie.douban.com/top250?start=25
+2019-08-05 11:16:11 engine.py [line:184] INFO: this is a distribute spider:True
+2019-08-05 11:16:11 engine.py [line:185] INFO: the self_async is thread
+2019-08-05 11:16:11 engine.py [line:186] INFO: the spider start at 2019-08-05 11:16:11.305741
+2019-08-05 11:16:11 engine.py [line:187] INFO: the spider end in 2019-08-05 11:16:11.408376
+2019-08-05 11:16:11 engine.py [line:188] INFO: the request's total is 8
+2019-08-05 11:16:11 engine.py [line:189] INFO: the repetitive request's total is 8
+2019-08-05 11:16:11 engine.py [line:190] INFO: the response's total is 0
+2019-08-05 11:16:11 engine.py [line:191] INFO: the spider pass with 0.102635
+2019-08-05 11:16:17 scheduler.py [line:51] INFO: this is a repetitive request:http://www.itcast.cn/
+2019-08-05 11:16:17 scheduler.py [line:51] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 11:16:17 scheduler.py [line:51] INFO: this is a repetitive request:http://www.baidu.com/
+2019-08-05 11:16:17 scheduler.py [line:51] INFO: this is a repetitive request:http://v.baidu.com/
+2019-08-05 11:16:17 scheduler.py [line:51] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 11:16:17 scheduler.py [line:51] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 11:16:17 scheduler.py [line:51] INFO: this is a repetitive request:http://movie.douban.com/top250?start=0
+2019-08-05 11:16:17 scheduler.py [line:51] INFO: this is a repetitive request:http://movie.douban.com/top250?start=25
+2019-08-05 11:16:17 engine.py [line:184] INFO: this is a distribute spider:True
+2019-08-05 11:16:17 engine.py [line:185] INFO: the self_async is thread
+2019-08-05 11:16:17 engine.py [line:186] INFO: the spider start at 2019-08-05 11:16:17.458101
+2019-08-05 11:16:17 engine.py [line:187] INFO: the spider end in 2019-08-05 11:16:17.562456
+2019-08-05 11:16:17 engine.py [line:188] INFO: the request's total is 8
+2019-08-05 11:16:17 engine.py [line:189] INFO: the repetitive request's total is 8
+2019-08-05 11:16:17 engine.py [line:190] INFO: the response's total is 0
+2019-08-05 11:16:17 engine.py [line:191] INFO: the spider pass with 0.104355
+2019-08-05 11:16:21 scheduler.py [line:51] INFO: this is a repetitive request:http://www.itcast.cn/
+2019-08-05 11:16:21 scheduler.py [line:51] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 11:16:21 scheduler.py [line:51] INFO: this is a repetitive request:http://www.baidu.com/
+2019-08-05 11:16:21 scheduler.py [line:51] INFO: this is a repetitive request:http://v.baidu.com/
+2019-08-05 11:16:21 scheduler.py [line:51] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 11:16:21 scheduler.py [line:51] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 11:16:21 scheduler.py [line:51] INFO: this is a repetitive request:http://movie.douban.com/top250?start=0
+2019-08-05 11:16:21 scheduler.py [line:51] INFO: this is a repetitive request:http://movie.douban.com/top250?start=25
+2019-08-05 11:16:22 engine.py [line:184] INFO: this is a distribute spider:True
+2019-08-05 11:16:22 engine.py [line:185] INFO: the self_async is thread
+2019-08-05 11:16:22 engine.py [line:186] INFO: the spider start at 2019-08-05 11:16:21.952832
+2019-08-05 11:16:22 engine.py [line:187] INFO: the spider end in 2019-08-05 11:16:22.056738
+2019-08-05 11:16:22 engine.py [line:188] INFO: the request's total is 8
+2019-08-05 11:16:22 engine.py [line:189] INFO: the repetitive request's total is 8
+2019-08-05 11:16:22 engine.py [line:190] INFO: the response's total is 0
+2019-08-05 11:16:22 engine.py [line:191] INFO: the spider pass with 0.103906
+2019-08-05 11:17:35 scheduler.py [line:51] INFO: this is a repetitive request:http://www.itcast.cn/
+2019-08-05 11:17:35 scheduler.py [line:51] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 11:17:35 scheduler.py [line:51] INFO: this is a repetitive request:http://www.baidu.com/
+2019-08-05 11:17:35 scheduler.py [line:51] INFO: this is a repetitive request:http://v.baidu.com/
+2019-08-05 11:17:35 scheduler.py [line:51] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 11:17:35 scheduler.py [line:51] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 11:17:35 scheduler.py [line:51] INFO: this is a repetitive request:http://movie.douban.com/top250?start=0
+2019-08-05 11:17:35 scheduler.py [line:51] INFO: this is a repetitive request:http://movie.douban.com/top250?start=25
+2019-08-05 11:17:35 engine.py [line:184] INFO: this is a distribute spider:True
+2019-08-05 11:17:35 engine.py [line:185] INFO: the self_async is thread
+2019-08-05 11:17:35 engine.py [line:186] INFO: the spider start at 2019-08-05 11:17:35.382581
+2019-08-05 11:17:35 engine.py [line:187] INFO: the spider end in 2019-08-05 11:17:35.486942
+2019-08-05 11:17:35 engine.py [line:188] INFO: the request's total is 8
+2019-08-05 11:17:35 engine.py [line:189] INFO: the repetitive request's total is 8
+2019-08-05 11:17:35 engine.py [line:190] INFO: the response's total is 0
+2019-08-05 11:17:35 engine.py [line:191] INFO: the spider pass with 0.104361
+2019-08-05 11:18:14 scheduler.py [line:51] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 11:18:14 scheduler.py [line:51] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 11:18:15 engine.py [line:184] INFO: this is a distribute spider:False
+2019-08-05 11:18:15 engine.py [line:185] INFO: the self_async is thread
+2019-08-05 11:18:15 engine.py [line:186] INFO: the spider start at 2019-08-05 11:18:14.399615
+2019-08-05 11:18:15 engine.py [line:187] INFO: the spider end in 2019-08-05 11:18:15.018129
+2019-08-05 11:18:15 engine.py [line:188] INFO: the request's total is 8
+2019-08-05 11:18:15 engine.py [line:189] INFO: the repetitive request's total is 2
+2019-08-05 11:18:15 engine.py [line:190] INFO: the response's total is 6
+2019-08-05 11:18:15 engine.py [line:191] INFO: the spider pass with 0.618514
+2019-08-05 11:18:52 scheduler.py [line:51] INFO: this is a repetitive request:http://www.itcast.cn/
+2019-08-05 11:18:52 scheduler.py [line:51] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 11:18:52 scheduler.py [line:51] INFO: this is a repetitive request:http://www.baidu.com/
+2019-08-05 11:18:52 scheduler.py [line:51] INFO: this is a repetitive request:http://v.baidu.com/
+2019-08-05 11:18:52 scheduler.py [line:51] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 11:18:52 scheduler.py [line:51] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 11:18:52 scheduler.py [line:51] INFO: this is a repetitive request:http://movie.douban.com/top250?start=0
+2019-08-05 11:18:52 scheduler.py [line:51] INFO: this is a repetitive request:http://movie.douban.com/top250?start=25
+2019-08-05 11:18:52 engine.py [line:184] INFO: this is a distribute spider:True
+2019-08-05 11:18:52 engine.py [line:185] INFO: the self_async is thread
+2019-08-05 11:18:52 engine.py [line:186] INFO: the spider start at 2019-08-05 11:18:52.649696
+2019-08-05 11:18:52 engine.py [line:187] INFO: the spider end in 2019-08-05 11:18:52.750695
+2019-08-05 11:18:52 engine.py [line:188] INFO: the request's total is 8
+2019-08-05 11:18:52 engine.py [line:189] INFO: the repetitive request's total is 8
+2019-08-05 11:18:52 engine.py [line:190] INFO: the response's total is 0
+2019-08-05 11:18:52 engine.py [line:191] INFO: the spider pass with 0.100999
+2019-08-05 11:18:59 scheduler.py [line:51] INFO: this is a repetitive request:http://www.itcast.cn/
+2019-08-05 11:18:59 scheduler.py [line:51] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 11:18:59 scheduler.py [line:51] INFO: this is a repetitive request:http://www.baidu.com/
+2019-08-05 11:18:59 scheduler.py [line:51] INFO: this is a repetitive request:http://v.baidu.com/
+2019-08-05 11:18:59 scheduler.py [line:51] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 11:18:59 scheduler.py [line:51] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 11:18:59 scheduler.py [line:51] INFO: this is a repetitive request:http://movie.douban.com/top250?start=0
+2019-08-05 11:18:59 scheduler.py [line:51] INFO: this is a repetitive request:http://movie.douban.com/top250?start=25
+2019-08-05 11:18:59 engine.py [line:184] INFO: this is a distribute spider:True
+2019-08-05 11:18:59 engine.py [line:185] INFO: the self_async is thread
+2019-08-05 11:18:59 engine.py [line:186] INFO: the spider start at 2019-08-05 11:18:59.821073
+2019-08-05 11:18:59 engine.py [line:187] INFO: the spider end in 2019-08-05 11:18:59.925221
+2019-08-05 11:18:59 engine.py [line:188] INFO: the request's total is 8
+2019-08-05 11:18:59 engine.py [line:189] INFO: the repetitive request's total is 8
+2019-08-05 11:18:59 engine.py [line:190] INFO: the response's total is 0
+2019-08-05 11:18:59 engine.py [line:191] INFO: the spider pass with 0.104148
+2019-08-05 11:19:08 scheduler.py [line:51] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 11:19:08 scheduler.py [line:51] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 11:19:10 engine.py [line:184] INFO: this is a distribute spider:False
+2019-08-05 11:19:10 engine.py [line:185] INFO: the self_async is thread
+2019-08-05 11:19:10 engine.py [line:186] INFO: the spider start at 2019-08-05 11:19:08.421857
+2019-08-05 11:19:10 engine.py [line:187] INFO: the spider end in 2019-08-05 11:19:10.778753
+2019-08-05 11:19:10 engine.py [line:188] INFO: the request's total is 8
+2019-08-05 11:19:10 engine.py [line:189] INFO: the repetitive request's total is 2
+2019-08-05 11:19:10 engine.py [line:190] INFO: the response's total is 6
+2019-08-05 11:19:10 engine.py [line:191] INFO: the spider pass with 2.356896
+2019-08-05 11:19:26 scheduler.py [line:51] INFO: this is a repetitive request:http://www.itcast.cn/
+2019-08-05 11:19:26 scheduler.py [line:51] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 11:19:26 scheduler.py [line:51] INFO: this is a repetitive request:http://www.baidu.com/
+2019-08-05 11:19:26 scheduler.py [line:51] INFO: this is a repetitive request:http://v.baidu.com/
+2019-08-05 11:19:26 scheduler.py [line:51] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 11:19:26 scheduler.py [line:51] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 11:19:26 scheduler.py [line:51] INFO: this is a repetitive request:http://movie.douban.com/top250?start=0
+2019-08-05 11:19:26 scheduler.py [line:51] INFO: this is a repetitive request:http://movie.douban.com/top250?start=25
+2019-08-05 11:19:26 engine.py [line:184] INFO: this is a distribute spider:True
+2019-08-05 11:19:26 engine.py [line:185] INFO: the self_async is thread
+2019-08-05 11:19:26 engine.py [line:186] INFO: the spider start at 2019-08-05 11:19:26.788776
+2019-08-05 11:19:26 engine.py [line:187] INFO: the spider end in 2019-08-05 11:19:26.894180
+2019-08-05 11:19:26 engine.py [line:188] INFO: the request's total is 8
+2019-08-05 11:19:26 engine.py [line:189] INFO: the repetitive request's total is 8
+2019-08-05 11:19:26 engine.py [line:190] INFO: the response's total is 0
+2019-08-05 11:19:26 engine.py [line:191] INFO: the spider pass with 0.105404
+2019-08-05 11:19:31 scheduler.py [line:51] INFO: this is a repetitive request:http://www.itcast.cn/
+2019-08-05 11:19:31 scheduler.py [line:51] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 11:19:31 scheduler.py [line:51] INFO: this is a repetitive request:http://www.baidu.com/
+2019-08-05 11:19:31 scheduler.py [line:51] INFO: this is a repetitive request:http://v.baidu.com/
+2019-08-05 11:19:31 scheduler.py [line:51] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 11:19:31 scheduler.py [line:51] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 11:19:31 scheduler.py [line:51] INFO: this is a repetitive request:http://movie.douban.com/top250?start=0
+2019-08-05 11:19:31 scheduler.py [line:51] INFO: this is a repetitive request:http://movie.douban.com/top250?start=25
+2019-08-05 11:19:31 engine.py [line:184] INFO: this is a distribute spider:True
+2019-08-05 11:19:31 engine.py [line:185] INFO: the self_async is thread
+2019-08-05 11:19:31 engine.py [line:186] INFO: the spider start at 2019-08-05 11:19:31.439317
+2019-08-05 11:19:31 engine.py [line:187] INFO: the spider end in 2019-08-05 11:19:31.544972
+2019-08-05 11:19:31 engine.py [line:188] INFO: the request's total is 8
+2019-08-05 11:19:31 engine.py [line:189] INFO: the repetitive request's total is 8
+2019-08-05 11:19:31 engine.py [line:190] INFO: the response's total is 0
+2019-08-05 11:19:31 engine.py [line:191] INFO: the spider pass with 0.105655
+2019-08-05 11:19:35 scheduler.py [line:51] INFO: this is a repetitive request:http://www.itcast.cn/
+2019-08-05 11:19:35 scheduler.py [line:51] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 11:19:35 scheduler.py [line:51] INFO: this is a repetitive request:http://www.baidu.com/
+2019-08-05 11:19:35 scheduler.py [line:51] INFO: this is a repetitive request:http://v.baidu.com/
+2019-08-05 11:19:35 scheduler.py [line:51] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 11:19:35 scheduler.py [line:51] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 11:19:35 scheduler.py [line:51] INFO: this is a repetitive request:http://movie.douban.com/top250?start=0
+2019-08-05 11:19:35 scheduler.py [line:51] INFO: this is a repetitive request:http://movie.douban.com/top250?start=25
+2019-08-05 11:19:35 engine.py [line:184] INFO: this is a distribute spider:True
+2019-08-05 11:19:35 engine.py [line:185] INFO: the self_async is thread
+2019-08-05 11:19:35 engine.py [line:186] INFO: the spider start at 2019-08-05 11:19:35.396190
+2019-08-05 11:19:35 engine.py [line:187] INFO: the spider end in 2019-08-05 11:19:35.500685
+2019-08-05 11:19:35 engine.py [line:188] INFO: the request's total is 8
+2019-08-05 11:19:35 engine.py [line:189] INFO: the repetitive request's total is 8
+2019-08-05 11:19:35 engine.py [line:190] INFO: the response's total is 0
+2019-08-05 11:19:35 engine.py [line:191] INFO: the spider pass with 0.104495
+2019-08-05 11:21:22 scheduler.py [line:51] INFO: this is a repetitive request:http://www.itcast.cn/
+2019-08-05 11:21:22 scheduler.py [line:51] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 11:21:22 scheduler.py [line:51] INFO: this is a repetitive request:http://www.baidu.com/
+2019-08-05 11:21:22 scheduler.py [line:51] INFO: this is a repetitive request:http://v.baidu.com/
+2019-08-05 11:21:22 scheduler.py [line:51] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 11:21:22 scheduler.py [line:51] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 11:21:22 scheduler.py [line:51] INFO: this is a repetitive request:http://movie.douban.com/top250?start=0
+2019-08-05 11:21:22 scheduler.py [line:51] INFO: this is a repetitive request:http://movie.douban.com/top250?start=25
+2019-08-05 11:21:22 engine.py [line:184] INFO: this is a distribute spider:True
+2019-08-05 11:21:22 engine.py [line:185] INFO: the self_async is thread
+2019-08-05 11:21:22 engine.py [line:186] INFO: the spider start at 2019-08-05 11:21:22.736287
+2019-08-05 11:21:22 engine.py [line:187] INFO: the spider end in 2019-08-05 11:21:22.841592
+2019-08-05 11:21:22 engine.py [line:188] INFO: the request's total is 8
+2019-08-05 11:21:22 engine.py [line:189] INFO: the repetitive request's total is 8
+2019-08-05 11:21:22 engine.py [line:190] INFO: the response's total is 0
+2019-08-05 11:21:22 engine.py [line:191] INFO: the spider pass with 0.105305
+2019-08-05 11:23:06 scheduler.py [line:51] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 11:23:06 scheduler.py [line:51] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 11:23:06 engine.py [line:184] INFO: this is a distribute spider:True
+2019-08-05 11:23:06 engine.py [line:185] INFO: the self_async is thread
+2019-08-05 11:23:06 engine.py [line:186] INFO: the spider start at 2019-08-05 11:23:06.879429
+2019-08-05 11:23:06 engine.py [line:187] INFO: the spider end in 2019-08-05 11:23:06.983747
+2019-08-05 11:23:06 engine.py [line:188] INFO: the request's total is 8
+2019-08-05 11:23:06 engine.py [line:189] INFO: the repetitive request's total is 2
+2019-08-05 11:23:06 engine.py [line:190] INFO: the response's total is 0
+2019-08-05 11:23:06 engine.py [line:191] INFO: the spider pass with 0.104318
+2019-08-05 11:23:14 scheduler.py [line:51] INFO: this is a repetitive request:http://www.itcast.cn/
+2019-08-05 11:23:14 scheduler.py [line:51] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 11:23:14 scheduler.py [line:51] INFO: this is a repetitive request:http://www.baidu.com/
+2019-08-05 11:23:14 scheduler.py [line:51] INFO: this is a repetitive request:http://v.baidu.com/
+2019-08-05 11:23:14 scheduler.py [line:51] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 11:23:14 scheduler.py [line:51] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 11:23:14 scheduler.py [line:51] INFO: this is a repetitive request:http://movie.douban.com/top250?start=0
+2019-08-05 11:23:14 scheduler.py [line:51] INFO: this is a repetitive request:http://movie.douban.com/top250?start=25
+2019-08-05 11:23:20 engine.py [line:184] INFO: this is a distribute spider:True
+2019-08-05 11:23:20 engine.py [line:185] INFO: the self_async is thread
+2019-08-05 11:23:20 engine.py [line:186] INFO: the spider start at 2019-08-05 11:23:14.648481
+2019-08-05 11:23:20 engine.py [line:187] INFO: the spider end in 2019-08-05 11:23:20.107628
+2019-08-05 11:23:20 engine.py [line:188] INFO: the request's total is 8
+2019-08-05 11:23:20 engine.py [line:189] INFO: the repetitive request's total is 8
+2019-08-05 11:23:20 engine.py [line:190] INFO: the response's total is 5
+2019-08-05 11:23:20 engine.py [line:191] INFO: the spider pass with 5.459147
+2019-08-05 11:23:24 scheduler.py [line:51] INFO: this is a repetitive request:http://www.itcast.cn/
+2019-08-05 11:23:24 scheduler.py [line:51] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 11:23:24 scheduler.py [line:51] INFO: this is a repetitive request:http://www.baidu.com/
+2019-08-05 11:23:24 scheduler.py [line:51] INFO: this is a repetitive request:http://v.baidu.com/
+2019-08-05 11:23:24 scheduler.py [line:51] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 11:23:24 scheduler.py [line:51] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 11:23:24 scheduler.py [line:51] INFO: this is a repetitive request:http://movie.douban.com/top250?start=0
+2019-08-05 11:23:24 scheduler.py [line:51] INFO: this is a repetitive request:http://movie.douban.com/top250?start=25
+2019-08-05 11:23:25 engine.py [line:184] INFO: this is a distribute spider:True
+2019-08-05 11:23:25 engine.py [line:185] INFO: the self_async is thread
+2019-08-05 11:23:25 engine.py [line:186] INFO: the spider start at 2019-08-05 11:23:24.757846
+2019-08-05 11:23:25 engine.py [line:187] INFO: the spider end in 2019-08-05 11:23:25.067833
+2019-08-05 11:23:25 engine.py [line:188] INFO: the request's total is 8
+2019-08-05 11:23:25 engine.py [line:189] INFO: the repetitive request's total is 8
+2019-08-05 11:23:25 engine.py [line:190] INFO: the response's total is 1
+2019-08-05 11:23:25 engine.py [line:191] INFO: the spider pass with 0.309987
+2019-08-05 11:23:31 scheduler.py [line:51] INFO: this is a repetitive request:http://www.itcast.cn/
+2019-08-05 11:23:31 scheduler.py [line:51] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 11:23:31 scheduler.py [line:51] INFO: this is a repetitive request:http://www.baidu.com/
+2019-08-05 11:23:31 scheduler.py [line:51] INFO: this is a repetitive request:http://v.baidu.com/
+2019-08-05 11:23:31 scheduler.py [line:51] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 11:23:31 scheduler.py [line:51] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 11:23:31 scheduler.py [line:51] INFO: this is a repetitive request:http://movie.douban.com/top250?start=0
+2019-08-05 11:23:31 scheduler.py [line:51] INFO: this is a repetitive request:http://movie.douban.com/top250?start=25
+2019-08-05 11:23:31 engine.py [line:184] INFO: this is a distribute spider:True
+2019-08-05 11:23:31 engine.py [line:185] INFO: the self_async is thread
+2019-08-05 11:23:31 engine.py [line:186] INFO: the spider start at 2019-08-05 11:23:31.883787
+2019-08-05 11:23:31 engine.py [line:187] INFO: the spider end in 2019-08-05 11:23:31.986269
+2019-08-05 11:23:31 engine.py [line:188] INFO: the request's total is 8
+2019-08-05 11:23:31 engine.py [line:189] INFO: the repetitive request's total is 8
+2019-08-05 11:23:31 engine.py [line:190] INFO: the response's total is 0
+2019-08-05 11:23:31 engine.py [line:191] INFO: the spider pass with 0.102482
+2019-08-05 11:23:36 scheduler.py [line:51] INFO: this is a repetitive request:http://www.itcast.cn/
+2019-08-05 11:23:36 scheduler.py [line:51] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 11:23:36 scheduler.py [line:51] INFO: this is a repetitive request:http://www.baidu.com/
+2019-08-05 11:23:36 scheduler.py [line:51] INFO: this is a repetitive request:http://v.baidu.com/
+2019-08-05 11:23:36 scheduler.py [line:51] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 11:23:36 scheduler.py [line:51] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 11:23:36 scheduler.py [line:51] INFO: this is a repetitive request:http://movie.douban.com/top250?start=0
+2019-08-05 11:23:36 scheduler.py [line:51] INFO: this is a repetitive request:http://movie.douban.com/top250?start=25
+2019-08-05 11:23:36 engine.py [line:184] INFO: this is a distribute spider:True
+2019-08-05 11:23:36 engine.py [line:185] INFO: the self_async is thread
+2019-08-05 11:23:36 engine.py [line:186] INFO: the spider start at 2019-08-05 11:23:36.432402
+2019-08-05 11:23:36 engine.py [line:187] INFO: the spider end in 2019-08-05 11:23:36.535232
+2019-08-05 11:23:36 engine.py [line:188] INFO: the request's total is 8
+2019-08-05 11:23:36 engine.py [line:189] INFO: the repetitive request's total is 8
+2019-08-05 11:23:36 engine.py [line:190] INFO: the response's total is 0
+2019-08-05 11:23:36 engine.py [line:191] INFO: the spider pass with 0.10283
+2019-08-05 12:09:36 engine.py [line:164] ERROR: type object 'NormalStatsCollector' has no attribute 'request_nums_key'
+NoneType: None
+2019-08-05 12:10:36 scheduler.py [line:54] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 12:10:36 scheduler.py [line:54] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 12:13:34 scheduler.py [line:54] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 12:13:34 scheduler.py [line:54] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 12:13:34 engine.py [line:195] INFO: this is a distribute spider:False
+2019-08-05 12:13:34 engine.py [line:196] INFO: the self_async is thread
+2019-08-05 12:13:34 engine.py [line:197] INFO: the spider start at 2019-08-05 12:13:34.264970
+2019-08-05 12:13:34 engine.py [line:198] INFO: the spider end in 2019-08-05 12:13:34.884909
+2019-08-05 12:13:34 engine.py [line:199] INFO: the request's total is 8
+2019-08-05 12:13:34 engine.py [line:200] INFO: the repetitive request's total is 2
+2019-08-05 12:13:34 engine.py [line:201] INFO: the response's total is 6
+2019-08-05 12:13:34 engine.py [line:202] INFO: the spider pass with 0.619939
+2019-08-05 12:16:15 scheduler.py [line:54] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 12:16:15 scheduler.py [line:54] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 12:16:16 engine.py [line:197] INFO: this is a distribute spider:True
+2019-08-05 12:16:16 engine.py [line:198] INFO: the self_async is thread
+2019-08-05 12:16:16 engine.py [line:199] INFO: the spider start at 2019-08-05 12:16:15.485913
+2019-08-05 12:16:16 engine.py [line:200] INFO: the spider end in 2019-08-05 12:16:16.206192
+2019-08-05 12:16:16 engine.py [line:201] INFO: the request's total is 8
+2019-08-05 12:16:16 engine.py [line:202] INFO: the repetitive request's total is 2
+2019-08-05 12:16:16 engine.py [line:203] INFO: the response's total is 6
+2019-08-05 12:16:16 engine.py [line:204] INFO: the spider pass with 0.720279
+2019-08-05 12:16:43 scheduler.py [line:54] INFO: this is a repetitive request:http://www.itcast.cn/
+2019-08-05 12:16:43 scheduler.py [line:54] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 12:16:43 scheduler.py [line:54] INFO: this is a repetitive request:http://www.baidu.com/
+2019-08-05 12:16:43 scheduler.py [line:54] INFO: this is a repetitive request:http://v.baidu.com/
+2019-08-05 12:16:43 scheduler.py [line:54] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 12:16:43 scheduler.py [line:54] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 12:16:43 scheduler.py [line:54] INFO: this is a repetitive request:http://movie.douban.com/top250?start=0
+2019-08-05 12:16:43 scheduler.py [line:54] INFO: this is a repetitive request:http://movie.douban.com/top250?start=25
+2019-08-05 12:16:43 engine.py [line:197] INFO: this is a distribute spider:True
+2019-08-05 12:16:43 engine.py [line:198] INFO: the self_async is thread
+2019-08-05 12:16:43 engine.py [line:199] INFO: the spider start at 2019-08-05 12:16:43.291801
+2019-08-05 12:16:43 engine.py [line:200] INFO: the spider end in 2019-08-05 12:16:43.394110
+2019-08-05 12:16:43 engine.py [line:201] INFO: the request's total is 16
+2019-08-05 12:16:43 engine.py [line:202] INFO: the repetitive request's total is 10
+2019-08-05 12:16:43 engine.py [line:203] INFO: the response's total is 6
+2019-08-05 12:16:43 engine.py [line:204] INFO: the spider pass with 0.102309
+2019-08-05 12:18:26 scheduler.py [line:54] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 12:18:26 scheduler.py [line:54] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 12:18:27 engine.py [line:197] INFO: this is a distribute spider:True
+2019-08-05 12:18:27 engine.py [line:198] INFO: the self_async is thread
+2019-08-05 12:18:27 engine.py [line:199] INFO: the spider start at 2019-08-05 12:18:26.012642
+2019-08-05 12:18:27 engine.py [line:200] INFO: the spider end in 2019-08-05 12:18:27.864452
+2019-08-05 12:18:27 engine.py [line:201] INFO: the request's total is 8
+2019-08-05 12:18:27 engine.py [line:202] INFO: the repetitive request's total is 2
+2019-08-05 12:18:27 engine.py [line:203] INFO: the response's total is 6
+2019-08-05 12:18:27 engine.py [line:204] INFO: the spider pass with 1.85181
+2019-08-05 12:19:27 scheduler.py [line:54] INFO: this is a repetitive request:http://www.itcast.cn/
+2019-08-05 12:19:27 scheduler.py [line:54] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 12:19:27 scheduler.py [line:54] INFO: this is a repetitive request:http://www.baidu.com/
+2019-08-05 12:19:27 scheduler.py [line:54] INFO: this is a repetitive request:http://v.baidu.com/
+2019-08-05 12:19:27 scheduler.py [line:54] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 12:19:27 scheduler.py [line:54] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 12:19:27 scheduler.py [line:54] INFO: this is a repetitive request:http://movie.douban.com/top250?start=0
+2019-08-05 12:19:27 scheduler.py [line:54] INFO: this is a repetitive request:http://movie.douban.com/top250?start=25
+2019-08-05 12:19:27 engine.py [line:197] INFO: this is a distribute spider:True
+2019-08-05 12:19:27 engine.py [line:198] INFO: the self_async is thread
+2019-08-05 12:19:27 engine.py [line:199] INFO: the spider start at 2019-08-05 12:19:27.764755
+2019-08-05 12:19:27 engine.py [line:200] INFO: the spider end in 2019-08-05 12:19:27.866674
+2019-08-05 12:19:27 engine.py [line:201] INFO: the request's total is 8
+2019-08-05 12:19:27 engine.py [line:202] INFO: the repetitive request's total is 8
+2019-08-05 12:19:27 engine.py [line:203] INFO: the response's total is 0
+2019-08-05 12:19:27 engine.py [line:204] INFO: the spider pass with 0.101919
+2019-08-05 14:26:21 scheduler.py [line:56] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 14:26:21 scheduler.py [line:56] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 14:26:25 engine.py [line:197] INFO: this is a distribute spider:False
+2019-08-05 14:26:25 engine.py [line:198] INFO: the self_async is thread
+2019-08-05 14:26:25 engine.py [line:199] INFO: the spider start at 2019-08-05 14:26:21.214380
+2019-08-05 14:26:25 engine.py [line:200] INFO: the spider end in 2019-08-05 14:26:25.550020
+2019-08-05 14:26:25 engine.py [line:201] INFO: the request's total is 8
+2019-08-05 14:26:25 engine.py [line:202] INFO: the repetitive request's total is 2
+2019-08-05 14:26:25 engine.py [line:203] INFO: the response's total is 6
+2019-08-05 14:26:25 engine.py [line:204] INFO: the spider pass with 4.33564
+2019-08-05 14:31:37 scheduler.py [line:62] INFO: a repetitive request is added in queue:http://www.baidu.com
+2019-08-05 14:31:37 scheduler.py [line:62] INFO: a repetitive request is added in queue:http://www.baidu.com
+2019-08-05 14:31:37 scheduler.py [line:62] INFO: a repetitive request is added in queue:http://www.baidu.com
+2019-08-05 14:31:38 scheduler.py [line:62] INFO: a repetitive request is added in queue:http://www.baidu.com
+2019-08-05 14:31:38 scheduler.py [line:62] INFO: a repetitive request is added in queue:http://www.baidu.com
+2019-08-05 14:31:38 scheduler.py [line:62] INFO: a repetitive request is added in queue:http://www.baidu.com
+2019-08-05 14:31:38 scheduler.py [line:62] INFO: a repetitive request is added in queue:http://www.baidu.com
+2019-08-05 14:31:39 scheduler.py [line:62] INFO: a repetitive request is added in queue:http://www.baidu.com
+2019-08-05 14:31:39 scheduler.py [line:62] INFO: a repetitive request is added in queue:http://www.baidu.com
+2019-08-05 14:31:39 scheduler.py [line:62] INFO: a repetitive request is added in queue:http://www.baidu.com
+2019-08-05 14:31:39 engine.py [line:197] INFO: this is a distribute spider:True
+2019-08-05 14:31:39 engine.py [line:198] INFO: the self_async is thread
+2019-08-05 14:31:39 engine.py [line:199] INFO: the spider start at 2019-08-05 14:31:37.233563
+2019-08-05 14:31:39 engine.py [line:200] INFO: the spider end in 2019-08-05 14:31:39.692873
+2019-08-05 14:31:39 engine.py [line:201] INFO: the request's total is 13
+2019-08-05 14:31:39 engine.py [line:202] INFO: the repetitive request's total is 0
+2019-08-05 14:31:39 engine.py [line:203] INFO: the response's total is 13
+2019-08-05 14:31:39 engine.py [line:204] INFO: the spider pass with 2.45931
+2019-08-05 14:37:30 scheduler.py [line:62] INFO: a repetitive request is added in queue:https://www.baidu.com
+2019-08-05 14:37:33 scheduler.py [line:62] INFO: a repetitive request is added in queue:https://www.baidu.com
+2019-08-05 14:37:36 scheduler.py [line:62] INFO: a repetitive request is added in queue:https://www.baidu.com
+2019-08-05 14:37:39 scheduler.py [line:62] INFO: a repetitive request is added in queue:https://www.baidu.com
+2019-08-05 14:37:42 scheduler.py [line:62] INFO: a repetitive request is added in queue:https://www.baidu.com
+2019-08-05 14:37:45 scheduler.py [line:62] INFO: a repetitive request is added in queue:https://www.baidu.com
+2019-08-05 14:37:48 scheduler.py [line:62] INFO: a repetitive request is added in queue:https://www.baidu.com
+2019-08-05 15:02:08 engine.py [line:206] INFO: this is a distribute spider:True
+2019-08-05 15:02:08 engine.py [line:207] INFO: the self_async is thread
+2019-08-05 15:02:08 engine.py [line:208] INFO: the spider start at 2019-08-05 15:02:07.755086
+2019-08-05 15:02:08 engine.py [line:209] INFO: the spider end in 2019-08-05 15:02:08.166894
+2019-08-05 15:02:08 engine.py [line:210] INFO: the request's total is 7
+2019-08-05 15:02:08 engine.py [line:211] INFO: the repetitive request's total is 0
+2019-08-05 15:02:08 engine.py [line:212] INFO: the response's total is 7
+2019-08-05 15:02:08 engine.py [line:213] INFO: the spider pass with 0.411808
+2019-08-05 15:02:22 scheduler.py [line:56] INFO: this is a repetitive request:http://movie.douban.com/top250?start=0
+2019-08-05 15:02:22 scheduler.py [line:56] INFO: this is a repetitive request:http://movie.douban.com/top250?start=25
+2019-08-05 15:02:22 engine.py [line:206] INFO: this is a distribute spider:True
+2019-08-05 15:02:22 engine.py [line:207] INFO: the self_async is thread
+2019-08-05 15:02:22 engine.py [line:208] INFO: the spider start at 2019-08-05 15:02:22.355284
+2019-08-05 15:02:22 engine.py [line:209] INFO: the spider end in 2019-08-05 15:02:22.459939
+2019-08-05 15:02:22 engine.py [line:210] INFO: the request's total is 2
+2019-08-05 15:02:22 engine.py [line:211] INFO: the repetitive request's total is 2
+2019-08-05 15:02:22 engine.py [line:212] INFO: the response's total is 0
+2019-08-05 15:02:22 engine.py [line:213] INFO: the spider pass with 0.104655
+2019-08-05 15:02:37 scheduler.py [line:56] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 15:02:37 scheduler.py [line:56] INFO: this is a repetitive request:http://www.so.com/
+2019-08-05 15:02:37 engine.py [line:206] INFO: this is a distribute spider:True
+2019-08-05 15:02:37 engine.py [line:207] INFO: the self_async is thread
+2019-08-05 15:02:37 engine.py [line:208] INFO: the spider start at 2019-08-05 15:02:37.112612
+2019-08-05 15:02:37 engine.py [line:209] INFO: the spider end in 2019-08-05 15:02:37.832691
+2019-08-05 15:02:37 engine.py [line:210] INFO: the request's total is 8
+2019-08-05 15:02:37 engine.py [line:211] INFO: the repetitive request's total is 2
+2019-08-05 15:02:37 engine.py [line:212] INFO: the response's total is 6
+2019-08-05 15:02:37 engine.py [line:213] INFO: the spider pass with 0.720079
